@@ -1,0 +1,14 @@
+2024-09-24 09:36:58.0875 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:40:32.7366 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:42:06.1873 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:44:32.3219 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:45:06.7779 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:45:24.9506 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:45:42.9747 ERROR Object reference not set to an instance of an object.
+2024-09-24 09:46:29.5900 ERROR Object reference not set to an instance of an object.
+2024-09-24 10:18:04.8901 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 40 - Could not open a connection to SQL Server: Could not open a connection to SQL Server)
+2024-09-24 10:20:53.8498 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 40 - Could not open a connection to SQL Server: Could not open a connection to SQL Server)
+2024-09-24 10:20:53.8498 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 40 - Could not open a connection to SQL Server: Could not open a connection to SQL Server)
+2024-09-24 10:22:41.1585 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 40 - Could not open a connection to SQL Server: Could not open a connection to SQL Server)
+2024-09-24 10:30:35.8023 ERROR Project with id 1 not found
+2024-09-24 10:44:46.7496 ERROR An error occurred while saving the entity changes. See the inner exception for details.

@@ -1,0 +1,15 @@
+/Users/kokousogbo/RiderProjects/Portflio/Logger/bin/Debug/net8.0/Logger.deps.json
+/Users/kokousogbo/RiderProjects/Portflio/Logger/bin/Debug/net8.0/Logger.dll
+/Users/kokousogbo/RiderProjects/Portflio/Logger/bin/Debug/net8.0/Logger.pdb
+/Users/kokousogbo/RiderProjects/Portflio/Logger/bin/Debug/net8.0/Contracts.dll
+/Users/kokousogbo/RiderProjects/Portflio/Logger/bin/Debug/net8.0/Contracts.pdb
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.csproj.AssemblyReference.cache
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.AssemblyInfoInputs.cache
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.AssemblyInfo.cs
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.csproj.CoreCompileInputs.cache
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.csproj.Up2Date
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.dll
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/refint/Logger.dll
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/Logger.pdb
+/Users/kokousogbo/RiderProjects/Portflio/Logger/obj/Debug/net8.0/ref/Logger.dll

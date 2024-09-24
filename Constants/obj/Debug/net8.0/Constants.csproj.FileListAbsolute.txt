@@ -1,0 +1,12 @@
+/Users/kokousogbo/RiderProjects/Portflio/Constants/bin/Debug/net8.0/Constants.deps.json
+/Users/kokousogbo/RiderProjects/Portflio/Constants/bin/Debug/net8.0/Constants.dll
+/Users/kokousogbo/RiderProjects/Portflio/Constants/bin/Debug/net8.0/Constants.pdb
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.csproj.AssemblyReference.cache
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.AssemblyInfoInputs.cache
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.AssemblyInfo.cs
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.csproj.CoreCompileInputs.cache
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.dll
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/refint/Constants.dll
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/Constants.pdb
+/Users/kokousogbo/RiderProjects/Portflio/Constants/obj/Debug/net8.0/ref/Constants.dll
